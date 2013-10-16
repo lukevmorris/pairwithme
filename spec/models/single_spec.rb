@@ -5,6 +5,11 @@ describe Single do
     single = Single.new
     expect(single.seeking).to eq false
   end
+
+  it 'wants to pair on a "General" topic by default' do
+    single = Single.new
+    expect(single.pair_topic).to eq 'General'
+  end
 end
 
 describe Single, '#toggle_seeking_status' do

@@ -1,8 +1,9 @@
 class Single
-  attr_accessor :seeking
+  attr_accessor :seeking, :pair_topic
 
   def initialize(options = {})
     @seeking = options.fetch(:seeking, false)
+    @pair_topic = options.fetch(:pair_topic, 'General')
   end
 
   def toggle_seeking_status

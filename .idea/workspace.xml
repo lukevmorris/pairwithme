@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e86d3481-c040-4311-9e92-62f595c5c4a0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="pairwithme.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="e86d3481-c040-4311-9e92-62f595c5c4a0" time="1381963088192" ignored="false" />
+    <file path="/Dummy.txt" changelist="e86d3481-c040-4311-9e92-62f595c5c4a0" time="1381963279427" ignored="false" />
     <file path="/Gemfile" changelist="e86d3481-c040-4311-9e92-62f595c5c4a0" time="1381963224894" ignored="false" />
+    <file path="/.gitignore" changelist="e86d3481-c040-4311-9e92-62f595c5c4a0" time="1381963361238" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,10 +29,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="25" selection-start="252" selection-end="252" vertical-scroll-proportion="0.26639345">
+            <state line="16" column="6" selection-start="461" selection-end="461" vertical-scroll-proportion="0.32786885">
               <folding />
             </state>
           </provider>
@@ -55,6 +57,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -118,6 +121,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="editor.preferences.smartKeys" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bonobo" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
   </component>
@@ -385,6 +389,13 @@
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="25" selection-start="252" selection-end="252" vertical-scroll-proportion="0.26639345">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="6" selection-start="461" selection-end="461" vertical-scroll-proportion="0.32786885">
           <folding />
         </state>
       </provider>

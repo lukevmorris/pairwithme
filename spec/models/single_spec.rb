@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-describe Single do
+describe Single, '#new' do
   it 'is not seeking a pair by default' do
     single = Single.new
     expect(single.seeking).to eq false
